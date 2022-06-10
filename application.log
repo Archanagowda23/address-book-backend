@@ -1,0 +1,16 @@
+2022-06-09 18:25:30.065  INFO 13980 --- [restartedMain] c.b.a.AddressBookBackendApplication      : Starting AddressBookBackendApplication using Java 17.0.2 on DESKTOP-4E0R7JF with PID 13980 (C:\Users\Nagu\IdeaProjects\AddressBook-Backend\target\classes started by Nagu in C:\Users\Nagu\IdeaProjects\AddressBook-Backend)
+2022-06-09 18:25:30.082 DEBUG 13980 --- [restartedMain] c.b.a.AddressBookBackendApplication      : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-09 18:25:30.083  INFO 13980 --- [restartedMain] c.b.a.AddressBookBackendApplication      : The following 1 profile is active: "DEV"
+2022-06-09 18:25:41.317  WARN 13980 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-09 18:25:42.269  INFO 13980 --- [restartedMain] c.b.a.AddressBookBackendApplication      : Started AddressBookBackendApplication in 12.792 seconds (JVM running for 14.685)
+2022-06-09 18:25:42.274  INFO 13980 --- [restartedMain] c.b.a.AddressBookBackendApplication      : Addressbook App Started in DEV Environment
+2022-06-09 18:25:42.276  INFO 13980 --- [restartedMain] c.b.a.AddressBookBackendApplication      : Addressbook App started
+2022-06-09 18:27:55.040  INFO 15208 --- [restartedMain] c.b.a.AddressBookBackendApplication      : Starting AddressBookBackendApplication using Java 17.0.2 on DESKTOP-4E0R7JF with PID 15208 (C:\Users\Nagu\IdeaProjects\AddressBook-Backend\target\classes started by Nagu in C:\Users\Nagu\IdeaProjects\AddressBook-Backend)
+2022-06-09 18:27:55.043 DEBUG 15208 --- [restartedMain] c.b.a.AddressBookBackendApplication      : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-09 18:27:55.044  INFO 15208 --- [restartedMain] c.b.a.AddressBookBackendApplication      : The following 1 profile is active: "DEV"
+2022-06-09 18:27:59.345  WARN 15208 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-09 18:27:59.915  INFO 15208 --- [restartedMain] c.b.a.AddressBookBackendApplication      : Started AddressBookBackendApplication in 5.433 seconds (JVM running for 6.586)
+2022-06-09 18:27:59.920  INFO 15208 --- [restartedMain] c.b.a.AddressBookBackendApplication      : Addressbook App Started in DEV Environment
+2022-06-09 18:27:59.921  INFO 15208 --- [restartedMain] c.b.a.AddressBookBackendApplication      : Addressbook App started
+2022-06-09 19:43:32.841  WARN 15208 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m34s49ms911µs).
+2022-06-09 22:40:11.851  WARN 15208 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h34m3s972ms560µs300ns).
